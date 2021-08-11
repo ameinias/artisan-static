@@ -4,14 +4,14 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'g. blekkenhorst, narrative designer',
+        'description' => 'narrative design and weird horror.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'g. blekkenhorst',
+        'twitter' => 'gblekkenhorst',
+        'github' => 'ameinias',
     ],
     'services' => [
         'cmsVersion' => '2.10.139',
@@ -19,8 +19,8 @@ return [
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'drjmstzhe',
+            'apiKey' => '641753325122354',
         ],
     ],
     'collections' => [
