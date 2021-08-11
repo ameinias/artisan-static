@@ -5,7 +5,7 @@
 
     <p>Gillian was here.</p>
 
-    <span><a href="adventure.php">adventure</a> <a href="master.blade.php">master</a> dot com. 
+    <span><a href="adventure.php">adventure</a> <a href="gamemaster.blade.php">master</a> dot com. 
 
 
     <h2 id="test">Asset Compilation Test</h2>
