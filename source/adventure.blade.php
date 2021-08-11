@@ -1,4 +1,4 @@
 @section('content')
     <h1>adventure.php</h1>
 
-@endsection
+    @endsection
